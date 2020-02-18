@@ -5,7 +5,7 @@ Portfolio
 개인 프로젝트, 학습 자료등을 정리하여 첨부합니다.
 # Introduce Technology Stack
 ## 1. language
-* #### c&c++
+* #### [c&c++]
 * #### python
 * #### etc...
 ## 2. data structure
@@ -28,3 +28,4 @@ Portfolio
 
 [//]: #
 [homePage]: <http://BangGyoo.iptime.org:8888/Main> "개인홈페이지입니다."
+[c&c++]: </'c&c++'/>
