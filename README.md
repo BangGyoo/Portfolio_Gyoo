@@ -23,9 +23,30 @@ Portfolio
 * #### lab research
 ## 5. envronment
 * #### windows
-* #### renux
+* #### linux
 * #### git
 
 [//]: #
 [homePage]: <http://BangGyoo.iptime.org:8888/Main> "개인홈페이지입니다."
-[c&c++]: </'c&c++'/>
+[language]: </language/>
+[data structure]: </data structure/>
+[theory]: </theory/>
+[graphics]: </graphics/>
+[environment]: </environment/>
+[c&c++]: </language/c&c++/>
+[python]: </language/python/>
+[etc..]: </language/etc../>
+[data structure]: </data structure/data structure/>
+[algorithm]: </data structure/algorithm/>
+[discrete mathematics]: </theory/discrete mathematics/>
+[linear algebra]: </theory/linear algebra/>
+[logic circuit]: </theory/logic circuit/>
+[computer architecture]: </theory/computer architecture/>
+[operating system]: </theory/operating system/>
+[open gl]: </graphics/open gl/>
+[obj file]: </graphics/obj file/>
+[lab research]: </graphics/lab research/>
+[windows]: </environment/windows/>
+[linux]: </environment/linux/>
+[git]: </environment/git/>
+
