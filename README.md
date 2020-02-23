@@ -19,7 +19,7 @@ Portfolio
 * #### operating system
 ## 4. graphics
 * #### open gl
-* #### obj file
+* #### image processing
 * #### lab research
 ## 5. envronment
 * #### windows
@@ -44,7 +44,7 @@ Portfolio
 [computer architecture]: </theory/computer architecture/>
 [operating system]: </theory/operating system/>
 [open gl]: </graphics/open gl/>
-[obj file]: </graphics/obj file/>
+[image processing]: </graphics/image processing/>
 [lab research]: </graphics/lab research/>
 [windows]: </environment/windows/>
 [linux]: </environment/linux/>

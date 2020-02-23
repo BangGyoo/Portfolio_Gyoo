@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<QuickSortGraph>
+<Field arraySize="300000000" time="77.712997" randomSet="false"/>
+<Field arraySize="300000000" time="74.997002" randomSet="true"/>
+<Field arraySize="400000000" time="104.434998" randomSet="false"/>
+<Field arraySize="400000000" time="102.528999" randomSet="true"/>
+<Field arraySize="500000000" time="131.261002" randomSet="false"/>
+<Field arraySize="500000000" time="129.576996" randomSet="true"/>
+<Field arraySize="600000000" time="162.832001" randomSet="false"/>
+<Field arraySize="600000000" time="155.054001" randomSet="true"/>
+<Field arraySize="700000000" time="192.658997" randomSet="false"/>
+<Field arraySize="700000000" time="180.893005" randomSet="true"/>
+<Field arraySize="800000000" time="215.389008" randomSet="false"/>
+<Field arraySize="800000000" time="209.632996" randomSet="true"/>
+<Field arraySize="900000000" time="243.500000" randomSet="false"/>
+<Field arraySize="900000000" time="236.246994" randomSet="true"/>
+<Field arraySize="1000000000" time="275.652008" randomSet="false"/>
+<Field arraySize="1000000000" time="265.263000" randomSet="true"/>
+</QuickSortGraph>
