@@ -6,8 +6,8 @@ Portfolio
 # Introduce Technology Stack
 ## 1. language
 * #### [c&c++]
-* #### python
-* #### etc...
+* #### [python]
+* #### [etc..]
 ## 2. data structure
 * #### data structure
 * #### algorithm
@@ -18,13 +18,13 @@ Portfolio
 * #### computer architecture
 * #### operating system
 ## 4. graphics
-* #### open gl
-* #### image processing
-* #### lab research
+* #### [open gl]
+* #### [image processing]
+* #### [lab research]
 ## 5. envronment
-* #### windows
-* #### linux
-* #### git
+* #### [windows]
+* #### [linux]
+* #### [git]
 
 [//]: #
 [homePage]: <http://BangGyoo.iptime.org:8888/Main> "개인홈페이지입니다."

@@ -8,12 +8,13 @@ C/C++
 ## 2. graphics
 * #### open gl
 * #### image processing
+| dev c/c++ | visual studio | graphics | image processing |
+|---|---|---|---|
+| ![img1](./1.png) | ![img2](./2.png) | ![img3](./3.jpg) | ![img4](./4.png) |
 
 [//]: #
 [data structure]: </data structure/data structure/>
 [algorithm]: </data structure/algorithm/>
 [open gl]: </graphics/open gl/>
 [image processing]: </graphics/image processing>
-[img1]: <./1.png>
-[img2]: <./2.png>
-[img3]: <./3.png>
+
