@@ -1,4 +1,4 @@
-C/C++
+etc..
 =======
 > 수업, 토이프로젝트로 제작한 코딩입니다. html, css, java script(react), java(swing), VBA(EXCEL), C#(GUI), FORTRAN등을 활용하였습니다.
 # source code

@@ -8,9 +8,15 @@ Portfolio
 * #### [c&c++]
 * #### [python]
 * #### [etc..]
+| c&c++ | python | java script(react) |
+|---|---|---|
+| ![img1](/graphics/open%20gl/3.gif) | ![img2](/language/python/3.gif) | ![img3](/language/etc/1.gif) |
 ## 2. data structure
-* #### data structure
-* #### algorithm
+* #### [data structure]
+* #### [algorithm]
+| 퀵소트 측정 | 다익스트라 알고리즘 |
+|---|---|
+| ![img4](/data%20structure/algorithm/2.png) | ![img5](/data%20structure/algorithm/3.bmp) |
 ## 3. (math/logic)theory
 * #### discrete mathematics
 * #### linear algebra
@@ -21,23 +27,29 @@ Portfolio
 * #### [open gl]
 * #### [image processing]
 * #### [lab research]
+| open gl | image processing | lab research |
+|---|---|---|
+| ![img6](/graphics/open%20gl/5.jpg) | ![img7](/graphics/image%20processing/2.gif) | ![img8](/graphics/lab%20research/3.png) |
 ## 5. envronment
 * #### [windows]
 * #### [linux]
 * #### [git]
+| microsoft office | ubuntu | git |
+|---|---|---|
+| ![img9](/environment/windows/2.png) | ![img10](/environment/linux/1.png) | ![img11](/environment/git/1.png) |
 
 [//]: #
-[homePage]: <http://BangGyoo.iptime.org:8888/Main> "개인홈페이지입니다."
+[homePage]: <http://BangGyoo.iptime.org:8888/Main> "개인 홈페이지"
 [language]: </language/>
-[data structure]: </data structure/>
+[data]: </data structure/>
 [theory]: </theory/>
 [graphics]: </graphics/>
 [environment]: </environment/>
 [c&c++]: </language/c&c++/>
 [python]: </language/python/>
-[etc..]: </language/etc../>
-[data structure]: </data structure/data structure/>
-[algorithm]: </data structure/algorithm/>
+[etc..]: </language/etc/>
+[data structure]: </data%20structure/data%20structure/>
+[algorithm]: </data%20structure/algorithm/>
 [discrete mathematics]: </theory/discrete mathematics/>
 [linear algebra]: </theory/linear algebra/>
 [logic circuit]: </theory/logic circuit/>
