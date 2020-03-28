@@ -19,10 +19,15 @@ Portfolio
 | ![img4](/data%20structure/algorithm/2.png) | ![img5](/data%20structure/algorithm/3.bmp) |
 ## 3. (math/logic)theory
 * #### discrete mathematics
+	> 이산수학의 기본적인 개념(논리,증명,집합론,조합론,그래프 이론)등을 학습하였습니다. domain, codomain의 관계는 컴퓨터 수학의 기본을 이해하는데 많은 도움을 주었습니다.
 * #### linear algebra
+	> 선형대수학의 matrix, vector의 기본개념과 내적 외적등을 학습하였습니다. 해당 지식은 차후 computer graphics에서 활용하는데 많은 도움을 주었습니다.
 * #### logic circuit
+	> 논리게이트, 카르노맵등을 활용하여 컴퓨터의 논리식의 기본 구성등을 학습하였습니다.
 * #### computer architecture
+	> 컴퓨터의 직/간접 1,2,3주소 방식등을 학습하였습니다.
 * #### operating system
+	> 스레드관리, 프로세스관리(세마포어, 뮤텍스록), 페이징기법 등을 공부하였습니다.
 ## 4. graphics
 * #### [open gl]
 * #### [image processing]
