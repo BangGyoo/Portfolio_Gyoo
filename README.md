@@ -1,8 +1,13 @@
 Portfolio
 =========
-[HomePage] 참고
 > Name : ByeongGyoo Kim(김병규,金秉珪,キムビョンギュ)
-개인 프로젝트, 학습 자료등을 정리하여 첨부합니다.
+개인 프로젝트, 학습 자료등을 정리하여 첨부합니다.   
+
+### write paper
+>	> * [박재민, 권오은, 김병규, 노우현, 박진우, 전준영, 고병철. (2018). IoT 센서 기술을 이용한 원격 스마트 창문 제어. ][link1]   
+>	> 한국정보과학회 학술발표논문집, (), 414-416.  
+>	> * [Comparison and Analysis of Noise Filtering Algorithms for Path Tracing][link2] 
+>	> International Journal of Engineering Research and Technology. ISSN 0974-3154, Volume 12, Number 6 (2019), pp. 770-775
 # Introduce Technology Stack
 ## 1. language
 * #### [c&c++]
@@ -66,4 +71,5 @@ Portfolio
 [windows]: </environment/windows/>
 [linux]: </environment/linux/>
 [git]: </environment/git/>
-
+[link1]: <https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07613626>
+[link2]: <http://www.irphouse.com/ijert19/ijertv12n6_08.pdf>
