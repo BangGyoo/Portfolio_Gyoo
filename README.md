@@ -15,7 +15,7 @@ Portfolio
 * #### [etc..]
 | c&c++ | python | java script(react) |
 |---|---|---|
-| ![img1](/graphics/open%20gl/3.gif) | ![img2](/language/python/3.gif) | ![img3](/language/etc/1.gif) |
+| ![img1](/graphics/open%20gl/3.gif) | ![img2](/language/python/5.png) | ![img3](/language/etc/1.gif) |
 ## 2. data structure
 * #### [data structure]
 * #### [algorithm]
